@@ -1,6 +1,8 @@
 # TextClient
 
-**TODO: Add description**
+```elixir
+mix run -e TextClient.start
+```
 
 ## Installation
 
